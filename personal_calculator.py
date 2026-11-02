@@ -9,7 +9,7 @@ addition = num1 + num2
 subtraction = num1 - num2
 multiplication = num1 * num2
 
-print("\nHello, " + name + "!")
+print(f"\nHello, {name}!")
 print(f"Your age is {age}.")
 
 print(f"Addition: {addition:g}")
